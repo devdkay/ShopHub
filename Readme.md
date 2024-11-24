@@ -4,7 +4,17 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-NPM / Yarn and Node.js installed
+Before running the project, ensure you have the following installed:
+
+Node.js (v14.x or later)
+
+npm or yarn
+Comes bundled with Node.js. Run npm -v to verify installation.
+
+MongoDB (Local or Atlas Cluster)
+Install MongoDB locally or set up a free Atlas cluster.
+Download MongoDB
+
 
 ### Installing
 
